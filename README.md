@@ -18,22 +18,21 @@ In this challenge, we used our knowledge of neural networks and machine learning
 
 ### Compiling, Training, and Evaluating the Model
 
-* How many neurons, layers, and activation functions did you select for your neural network model, and why?
-For my first attempt, I used 8 and 5 nuerons with 2 layers and and output layer. 
+* For my first attempt, I used 8 and 5 nuerons with 2 layers and and output layer. 
 
 <img width="903" alt="Screen Shot 2021-03-20 at 5 43 49 PM" src="https://user-images.githubusercontent.com/71396367/111886434-d586fc00-89a3-11eb-9cb6-beb9d6d25af1.png">
 
-In my second attempt, I changed up how many neurons I was using to 10, 5 and 3, then added 3 layers with an output layer. 
+* In my second attempt, I changed up how many neurons I was using to 10, 5 and 3, then added 3 layers with an output layer. 
 
 <img width="891" alt="Screen Shot 2021-03-20 at 5 49 56 PM" src="https://user-images.githubusercontent.com/71396367/111886539-b177ea80-89a4-11eb-8f28-be26b1aa3110.png">
 
-Lastly, one the third attempt, I decided to keep it some what similar to the second attempt but took the layers down to two and kept 10 and 5 neurons. 
+* Lastly, one the third attempt, I decided to keep it some what similar to the second attempt but took the layers down to two and kept 10 and 5 neurons. 
 
 <img width="885" alt="Screen Shot 2021-03-20 at 5 51 14 PM" src="https://user-images.githubusercontent.com/71396367/111886559-dec49880-89a4-11eb-8135-a59e287c8980.png">
 
 * With all three of my attempts I never was able to achieve the target performance for the model. 
   * First Attempt:
-<img width="467" alt="Screen Shot 2021-03-20 at 5 53 26 PM" src="https://user-images.githubusercontent.com/71396367/111886591-2d723280-89a5-11eb-95a0-   4fc10e2403ea.png">
+<img width="477" alt="Screen Shot 2021-03-20 at 6 14 01 PM" src="https://user-images.githubusercontent.com/71396367/111886935-0d903e00-89a8-11eb-92eb-225214312443.png">
 
   * Second Attempt:
 <img width="472" alt="Screen Shot 2021-03-20 at 5 54 54 PM" src="https://user-images.githubusercontent.com/71396367/111886611-61e5ee80-89a5-11eb-891a-b8eccb0695b3.png">
