@@ -27,13 +27,13 @@ Lastly, one the third attempt, I decided to keep it some what similar to the sec
 <img width="885" alt="Screen Shot 2021-03-20 at 5 51 14 PM" src="https://user-images.githubusercontent.com/71396367/111886559-dec49880-89a4-11eb-8135-a59e287c8980.png">
 
 * With all three of my attempts I never was able to achieve the target performance for the model. 
-First Attempt:
-<img width="467" alt="Screen Shot 2021-03-20 at 5 53 26 PM" src="https://user-images.githubusercontent.com/71396367/111886591-2d723280-89a5-11eb-95a0-4fc10e2403ea.png">
+  * First Attempt:
+<img width="467" alt="Screen Shot 2021-03-20 at 5 53 26 PM" src="https://user-images.githubusercontent.com/71396367/111886591-2d723280-89a5-11eb-95a0-   4fc10e2403ea.png">
 
-Second Attempt:
+  * Second Attempt:
 <img width="472" alt="Screen Shot 2021-03-20 at 5 54 54 PM" src="https://user-images.githubusercontent.com/71396367/111886611-61e5ee80-89a5-11eb-891a-b8eccb0695b3.png">
 
-Third Attempt:
+  * Third Attempt:
 <img width="465" alt="Screen Shot 2021-03-20 at 5 55 30 PM" src="https://user-images.githubusercontent.com/71396367/111886620-775b1880-89a5-11eb-993f-fa4d6380fddd.png">
 
 * In all three attemps, I tried using a different amount of layers and neurons in order to try and hit the target peformance for my model but was not able too. 
